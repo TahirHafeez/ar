@@ -3,21 +3,21 @@
     "AnnotationType": "Library",
     "latitude": 31.416151768272528,
     "longitude": 74.2136566866423,
-    "video_link": "",
-    "pdf_link": ""
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "pdf_link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
   },
   {
     "AnnotationType": "Cafeteria",
     "latitude": 31.41581152339389,
     "longitude": 74.21398745230843,
-    "video_link": "",
-    "pdf_link": ""
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "pdf_link": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf"
   },
   {
     "AnnotationType": "Admin",
     "latitude": 31.408323986331805,
     "longitude": 74.21365176245052,
-    "video_link": "",
-    "pdf_link": ""
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "pdf_link": "https://cdn.syncfusion.com/content/PDFViewer/flutter-succinctly.pdf"
   }
 ]
