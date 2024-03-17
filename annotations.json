@@ -2,16 +2,22 @@
   {
     "AnnotationType": "Library",
     "latitude": 31.416151768272528,
-    "longitude": 74.2136566866423
+    "longitude": 74.2136566866423,
+    "video_link": "",
+    "pdf_link": ""
   },
   {
     "AnnotationType": "Cafeteria",
     "latitude": 31.41581152339389,
-    "longitude": 74.21398745230843
+    "longitude": 74.21398745230843,
+    "video_link": "",
+    "pdf_link": ""
   },
   {
     "AnnotationType": "Admin",
     "latitude": 31.408323986331805,
-    "longitude": 74.21365176245052
+    "longitude": 74.21365176245052,
+    "video_link": "",
+    "pdf_link": ""
   }
 ]
